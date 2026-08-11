@@ -6,13 +6,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
 | ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
