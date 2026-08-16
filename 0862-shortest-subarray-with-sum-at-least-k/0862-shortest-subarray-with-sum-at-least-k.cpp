@@ -13,7 +13,7 @@ public:
                 ans=min(ans,j-dq.front());
                 dq.pop_front();
             }
-            // Remove useless indices -, if current prefix which is greater can give >=k , so the incoming will also give (if less) as it [increases the diff] also since question asked for the shortest length , so length is also dec to take the forward ones
+            // Remove useless indices -, if current prefix which is greater can give >=k , so the incoming will also give (if less) as it [increases the diff] also since question asked for the shortest length , so length will also dec to take the forward ones
             while (!dq.empty() && prefix[dq.back()]>=prefix[j]){
                 dq.pop_back();
             }
