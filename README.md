@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Heap (Priority Queue)
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Queue
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0165-compare-version-numbers) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
