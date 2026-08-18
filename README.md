@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting
 |  |
 | ------- |
