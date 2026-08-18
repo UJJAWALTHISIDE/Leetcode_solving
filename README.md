@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0165-compare-version-numbers) |
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
+| [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2953-count-complete-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2953-count-complete-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
+| [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0860-lemonade-change) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Bucket Sort
