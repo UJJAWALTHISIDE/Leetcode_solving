@@ -10,7 +10,7 @@ public:
                 i++;
             } 
             else{
-                // as we can take values from the 1 to miss and add in miss getting till the 2*miss
+                // as we can take values from the 1 to miss and add in miss getting till the 2*miss-1
                 miss+=miss;
                 patches++;
             }
