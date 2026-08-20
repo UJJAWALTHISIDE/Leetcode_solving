@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -188,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
