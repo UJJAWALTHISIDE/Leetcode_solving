@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
