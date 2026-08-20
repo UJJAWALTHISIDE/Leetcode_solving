@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
+| [0605-can-place-flowers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0860-lemonade-change](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0860-lemonade-change) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
+| [0605-can-place-flowers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0860-lemonade-change) |
