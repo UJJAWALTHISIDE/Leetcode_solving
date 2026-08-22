@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0680-valid-palindrome-ii) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2953-count-complete-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2953-count-complete-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [1386-cinema-seat-allocation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1386-cinema-seat-allocation) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
