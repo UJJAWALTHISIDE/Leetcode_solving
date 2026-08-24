@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -201,10 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -214,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
@@ -227,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
+| [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
