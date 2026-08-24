@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2953-count-complete-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2953-count-complete-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Greedy
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3216-lexicographically-smallest-string-after-a-swap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
