@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
+| [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0605-can-place-flowers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
+| [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0605-can-place-flowers) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0056-merge-intervals) |
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
+| [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
