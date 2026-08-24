@@ -1,12 +1,17 @@
 class Solution {
 public:
     int maxScore(vector<int>& nums) {
-        sort(nums.rbegin(),nums.rend());
-        long long sum=0;
+        int n=nums.size();
+        sort(nums.begin(),nums.end());
+        reverse(nums.begin(),nums.end());
+        vector<long long> pre(n,0);
+        pre[0]=nums[0];
+        for(int i=1;i<n;i++){
+            pre[i]=pre[i-1]+nums[i];
+        }
         int count=0;
-        for(int x:nums){
-            sum+=x;
-            if(sum>0){
+        for(int i=0;i<n;i++){
+            if(pre[i]>0){
                 count++;
             }
         }
