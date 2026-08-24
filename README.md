@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0134-gas-station](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
