@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0165-compare-version-numbers) |
+| [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
+| [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
 | [0420-strong-password-checker](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0420-strong-password-checker) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
 ## Bracket Sequences
@@ -274,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
