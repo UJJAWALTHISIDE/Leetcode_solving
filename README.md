@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Counting
 |  |
 | ------- |
