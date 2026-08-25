@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1386-cinema-seat-allocation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1386-cinema-seat-allocation) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0860-lemonade-change) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1328-break-a-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1328-break-a-palindrome) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
