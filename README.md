@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0680-valid-palindrome-ii) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
+| [1328-break-a-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1328-break-a-palindrome) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1328-break-a-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
