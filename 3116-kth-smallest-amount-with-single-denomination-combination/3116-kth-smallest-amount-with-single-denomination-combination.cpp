@@ -55,17 +55,6 @@ public:
                     // LCM(2,3) = 6
 
                     L = lcm(L, coins[i]);
-
-                    // If LCM itself is greater than x,
-                    // then there cannot be ANY common multiple
-                    // <= x.
-                    //
-                    // Example:
-                    // L = 30, x = 20
-                    // Multiples of 30: 30,60,90,...
-                    // None are <= 20.
-                    //
-                    // Therefore this subset contributes 0.
                 }
             }
             // INCLUSION-EXCLUSION PRINCIPLE
