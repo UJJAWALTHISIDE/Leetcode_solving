@@ -31,8 +31,6 @@ public:
             // Number of coins present in this subset
             int bits = 0;
 
-            bool valid = true;
-
             for (int i = 0; i < n; i++) {
 
                 // Check whether the i-th coin is present
@@ -68,14 +66,7 @@ public:
                     // None are <= 20.
                     //
                     // Therefore this subset contributes 0.
-                    if (L > x) {
-                        valid = false;
-                        break;
-                    }
                 }
-            }
-            if (!valid){
-                continue;
             }
             // INCLUSION-EXCLUSION PRINCIPLE
             //
