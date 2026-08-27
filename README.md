@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Monotonic Stack
 |  |
 | ------- |
