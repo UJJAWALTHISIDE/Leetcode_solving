@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3474-lexicographically-smallest-generated-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Sorting
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
+| [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Stack
 |  |
 | ------- |
