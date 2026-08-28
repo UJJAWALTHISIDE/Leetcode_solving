@@ -1,17 +1,37 @@
 class Solution{
-    string build(string left,const vector<int>&cnt,char mid){
+    int compare(string&left,vector<int>&cnt,char mid,string&target){
+        int n=target.size();
+        int m=n/2;
         string half=left;
         for(int c=25;c>=0;--c){
             half.append(cnt[c],char('a'+c));
         }
-        string res=half;
-        if(mid){
-            res.push_back(mid);
+        for(int i=0;i<m;++i){
+            if(half[i]>target[i]){
+                return 1;
+            }
+            if(half[i]<target[i]){
+                return -1;
+            }
         }
-        for(int i=(int)half.size()-1;i>=0;--i){
-            res.push_back(half[i]);
+        if(n%2){
+            if(mid>target[m]){
+                return 1;
+            }
+            if(mid<target[m]){
+                return -1;
+            }
         }
-        return res;
+        for(int i=m-1;i>=0;--i){
+            int pos=n-1-i;
+            if(half[i]>target[pos]){
+                return 1;
+            }
+            if(half[i]<target[pos]){
+                return -1;
+            }
+        }
+        return 0;
     }
 public:
     string lexPalindromicPermutation(string s,string target){
@@ -24,13 +44,13 @@ public:
         for(int c=0;c<26;++c){
             if(cnt[c]&1){
                 ++odd;
-                mid='a'+c;
+                mid=char('a'+c);
             }
         }
         if(odd>1){
             return "";
         }
-        vector<int> halfCnt(26);
+        vector<int>halfCnt(26);
         for(int c=0;c<26;++c){
             halfCnt[c]=cnt[c]/2;
         }
@@ -43,8 +63,8 @@ public:
                     continue;
                 }
                 --halfCnt[c];
-                left.push_back('a'+c);
-                if(build(left,halfCnt,mid)>target){
+                left.push_back(char('a'+c));
+                if(compare(left,halfCnt,mid,target)>0){
                     found=true;
                     break;
                 }
