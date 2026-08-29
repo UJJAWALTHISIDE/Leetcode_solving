@@ -2,25 +2,20 @@ class Solution {
 public:
     int minRefuelStops(int target,int startFuel,vector<vector<int>>& stations) {
         int n=stations.size();
+        priority_queue<int> pq;
         long long reach=startFuel;
         int ans=0;
-        vector<bool> used(n,false);
-        while(reach<target){
-            int maxFuel=0;
-            int index=-1;
-            for(int i=0;i<n;i++){
-                if(!used[i]&&stations[i][0]<=reach){
-                    if(stations[i][1]>maxFuel){
-                        maxFuel=stations[i][1];
-                        index=i;
-                    }
-                }
+        int i=0;
+        while(reach<target) {
+            while(i<n&&stations[i][0]<=reach) {
+                pq.push(stations[i][1]);
+                i++;
             }
-            if(index==-1){
+            if(pq.empty()){
                 return -1;
             }
-            used[index]=true;
-            reach+=stations[index][1];
+            reach+=pq.top();
+            pq.pop();
             ans++;
         }
         return ans;
