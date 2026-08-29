@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0165-compare-version-numbers) |
 | [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0134-gas-station) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
