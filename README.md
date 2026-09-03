@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Sliding Window
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Minimax
 |  |
 | ------- |
