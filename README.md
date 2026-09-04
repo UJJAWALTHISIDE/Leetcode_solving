@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3903-smallest-stable-index-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3903-smallest-stable-index-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
+| [3903-smallest-stable-index-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
