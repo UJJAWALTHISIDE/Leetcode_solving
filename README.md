@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0680-valid-palindrome-ii) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
+| [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 | [1328-break-a-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1328-break-a-palindrome) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-set-intersection-size-at-least-two](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0757-set-intersection-size-at-least-two) |
 | [0948-bag-of-tokens](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
+| [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -398,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
