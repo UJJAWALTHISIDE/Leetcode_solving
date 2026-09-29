@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1402-reducing-dishes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3524-find-x-value-of-array-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Stack
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
