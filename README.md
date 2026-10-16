@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0871-minimum-number-of-refueling-stops) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Queue
 |  |
