@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Backtracking
 |  |
