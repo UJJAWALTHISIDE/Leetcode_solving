@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2953-count-complete-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2953-count-complete-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-distribute-money-to-maximum-children](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
