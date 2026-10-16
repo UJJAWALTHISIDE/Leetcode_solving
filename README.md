@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-minimum-hours-of-training-to-win-a-competition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2383-minimum-hours-of-training-to-win-a-competition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
