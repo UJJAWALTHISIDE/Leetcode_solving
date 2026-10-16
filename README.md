@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Union-Find
 |  |
 | ------- |
