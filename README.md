@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1585-check-if-string-is-transformable-with-substring-sort-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1585-check-if-string-is-transformable-with-substring-sort-operations) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2410-maximum-matching-of-players-with-trainers) |
