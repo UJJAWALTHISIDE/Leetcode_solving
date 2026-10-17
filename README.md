@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0179-largest-number) |
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
+| [0403-frog-jump](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0070-climbing-stairs) |
+| [0403-frog-jump](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0871-minimum-number-of-refueling-stops) |
