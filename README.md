@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0179-largest-number) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0119-pascals-triangle-ii) |
 | [0403-frog-jump](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0678-valid-parenthesis-string) |
