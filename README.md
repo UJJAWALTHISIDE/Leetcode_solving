@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2953-count-complete-substrings](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2953-count-complete-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2600-k-items-with-the-maximum-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3216-lexicographically-smallest-string-after-a-swap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3216-lexicographically-smallest-string-after-a-swap) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3524-find-x-value-of-array-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3524-find-x-value-of-array-i) |
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 ## Stack
