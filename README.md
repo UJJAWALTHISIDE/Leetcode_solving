@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0032-longest-valid-parentheses) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0045-jump-game-ii) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3483-unique-3-digit-even-numbers) |
