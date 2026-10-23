@@ -8,8 +8,9 @@ public:
         for (int i=n-m;i>=0;i--) {
             if (sequence.substr(i,m)==word) {
                 dp[i]=1;
-                if (i+m<n)
+                if (i+m<n){
                     dp[i]+=dp[i+m];
+                }
                 ans=max(ans,dp[i]);
             }
         }
