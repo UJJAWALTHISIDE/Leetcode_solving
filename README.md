@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2409-count-days-spent-together](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2409-count-days-spent-together) |
 | [2781-length-of-the-longest-valid-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2781-length-of-the-longest-valid-substring) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2409-count-days-spent-together) |
 | [2591-distribute-money-to-maximum-children](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2591-distribute-money-to-maximum-children) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
