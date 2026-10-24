@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0409-longest-palindrome) |
@@ -501,10 +502,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
