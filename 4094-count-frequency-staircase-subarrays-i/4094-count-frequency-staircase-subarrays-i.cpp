@@ -3,26 +3,40 @@ public:
     int countStaircase(vector<int>& nums) {
         int n=nums.size();
         int ans=0;
-        for(int left=0;left<n;left++){
-            unordered_map<int,int> mp;
-            vector<int> v;
+        int mid=(n-1)/2;
+        auto solve = [&](int left) {
+            unordered_map<int,int> freq,rank;
+            int distinct=0,bad=0;
             for(int right=left;right<n;right++){
-                if(mp[nums[right]]==0){
-                    v.push_back(nums[right]);
-                }
-                mp[nums[right]]++;
-                bool flag=true;
-                for(int i=0;i<v.size();i++){
-                    if(mp[v[i]]!=i+1){
-                        flag=false;
-                        break;
+                int x=nums[right];
+                if(freq.find(x)==freq.end()){
+                    distinct++;
+                    rank[x]=distinct;
+                    freq[x]=1;
+                    if(freq[x]!=rank[x]){
+                        bad++;
                     }
                 }
-                if(flag){
+                else{
+                    if(freq[x]!=rank[x]){
+                        bad--;
+                    }
+                    freq[x]++;
+                    if(freq[x]!=rank[x]){
+                        bad++;
+                    }
+                }
+                if(bad==0){
                     ans++;
                 }
             }
+        };
+        for(int left=0;left<=mid;left++){
+            solve(left);
         }
-        return ans;
+        for(int left=n-1;left>mid;left--){
+            solve(left);
+        }
+        return ans; 
     }
 };
