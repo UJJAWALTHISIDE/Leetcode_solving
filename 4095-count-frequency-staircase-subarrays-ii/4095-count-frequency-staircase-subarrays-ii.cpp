@@ -1,13 +1,15 @@
 class Solution {
 public:
     int countStaircase(vector<int>& v) {
-        int n = v.size(), p = 0, ans = 0;
-        while ((p + 1) * (p + 2) / 2 <= n) p++;
-        vector<int> srt(v), id(n), cnt(n, 0), pos(n, 0), seen;
-        sort(srt.begin(), srt.end());
-        for (int i = 0; i < n; i++) id[i] = lower_bound(srt.begin(), srt.end(), v[i]) - srt.begin();
-        for (int i = 0; i < n; i++) {
-            int dist = 0, ok = 0;
+        int n=v.size(),ans=0;
+        int p=(sqrt(1+8.0*n)-1)/2;
+        vector<int> srt(v),id(n),cnt(n,0),pos(n,0),seen;
+        sort(srt.begin(),srt.end());
+        for (int i=0;i<n;i++){
+            id[i]=lower_bound(srt.begin(),srt.end(),v[i])-srt.begin();
+        }
+        for (int i=0;i<n;i++){
+            int dist=0,ok=0;
             seen.clear();
             for (int j = i; j < n; j++) {
                 int x = id[j];
