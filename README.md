@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3891-minimum-increase-to-maximize-special-indices](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3891-minimum-increase-to-maximize-special-indices) |
 | [3903-smallest-stable-index-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3904-smallest-stable-index-ii) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Counting
 |  |
 | ------- |
