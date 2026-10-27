@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3904-smallest-stable-index-ii) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Counting
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 ## Queue
 |  |
 | ------- |
