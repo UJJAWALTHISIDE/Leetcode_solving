@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1025-divisor-game) |
+| [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
 ## Impartial Game
 |  |
 | ------- |
