@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3886-sum-of-sortable-integers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0871-minimum-number-of-refueling-stops) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -473,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3498-reverse-degree-of-a-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
 |  |
 | ------- |
