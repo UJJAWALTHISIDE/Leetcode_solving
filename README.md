@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0330-patching-array) |
 | [0403-frog-jump](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0403-frog-jump) |
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0605-can-place-flowers) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1025-divisor-game) |
