@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0517-super-washing-machines](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0517-super-washing-machines) |
 | [0605-can-place-flowers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0220-contains-duplicate-iii) |
 | [0435-non-overlapping-intervals](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0757-set-intersection-size-at-least-two](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0757-set-intersection-size-at-least-two) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0070-climbing-stairs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0836-rectangle-overlap) |
 | [1025-divisor-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1025-divisor-game) |
