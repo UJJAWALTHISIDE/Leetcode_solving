@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## String
 |  |
 | ------- |
