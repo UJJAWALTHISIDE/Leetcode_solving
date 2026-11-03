@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Counting
 |  |
 | ------- |
