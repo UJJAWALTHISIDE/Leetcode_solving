@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4038-count-integers-appearing-in-a-single-block) |
+| [4039-sum-of-decoded-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4039-sum-of-decoded-numbers) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3886-sum-of-sortable-integers) |
+| [4039-sum-of-decoded-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4039-sum-of-decoded-numbers) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Minimax
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3498-reverse-degree-of-a-string) |
+| [4039-sum-of-decoded-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4039-sum-of-decoded-numbers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Combinatorics
 |  |
