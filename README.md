@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4064-longest-subarray-divisible-by-k-with-at-most-one-negation-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4038-count-integers-appearing-in-a-single-block) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## String
