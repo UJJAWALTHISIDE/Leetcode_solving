@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1882-process-tasks-using-servers) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1882-process-tasks-using-servers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4065-rearrange-array-by-removing-distinct-values) |
