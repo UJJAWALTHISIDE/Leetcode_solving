@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1267-count-servers-that-communicate](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1267-count-servers-that-communicate) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1386-cinema-seat-allocation) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0992-subarrays-with-k-different-integers) |
+| [1267-count-servers-that-communicate](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2029-stone-game-ix) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1267-count-servers-that-communicate) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Recursion
 |  |
@@ -571,9 +574,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -600,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1025-divisor-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
