@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3298-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
@@ -367,11 +369,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0936-stamping-the-sequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0936-stamping-the-sequence) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2071-maximum-number-of-tasks-you-can-assign](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2071-maximum-number-of-tasks-you-can-assign) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/1673-find-the-most-competitive-subsequence) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Union-Find
 |  |
 | ------- |
@@ -601,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/UJJAWALTHISIDE/Leetcode_solving/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Brainteaser
 |  |
 | ------- |
